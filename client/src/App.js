@@ -48,6 +48,7 @@ function App() {
     <div className="app">
       <GlobalStyle />
 
+      <header className="App-header">
       {!token ? (
         <Login />
       ) : (
@@ -77,6 +78,7 @@ function App() {
           </Router>
         </>
       )}
+      </header>
     </div>
   );
 }
