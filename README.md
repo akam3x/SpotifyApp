@@ -1,6 +1,6 @@
 # Spotify Profile App
 
-End product of the "Build a Spotify Connected App" newline course
+Created as part of a learning project
 
 ## Local Installation & Set Up
 
